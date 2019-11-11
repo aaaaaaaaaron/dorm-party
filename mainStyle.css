@@ -1,0 +1,28 @@
+.img-thumbnail {
+    width: 100px;
+    height: 100px;
+}
+
+.machine-img {
+    width: 100px;
+    height: auto;
+}
+
+.table {
+    width: 50%;
+}
+
+.room-link-container {
+    padding-top: 10px;
+    padding-bottom: 18px;
+    padding-left: 100px;
+}
+
+#userPoints {
+    font-size: large;
+}
+
+.warning-group {
+    padding-top: 30px;
+    padding-left: 80px;
+}
